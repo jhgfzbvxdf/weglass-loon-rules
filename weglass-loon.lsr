@@ -1,0 +1,10 @@
+#!name=微信输入法隐私规则
+#!desc=阻断 WeType 上报域名，保留词典与更新
+DOMAIN-SUFFIX,rmonitor.qq.com,REJECT
+DOMAIN,ios.rqd.qq.com,REJECT
+DOMAIN-SUFFIX,bugly.qq.com,REJECT
+DOMAIN-SUFFIX,bugly.ws,REJECT
+DOMAIN-SUFFIX,sentry.io,REJECT
+DOMAIN-SUFFIX,flurry.com,REJECT
+DOMAIN-SUFFIX,pingfore.qq.com,REJECT
+DOMAIN-SUFFIX,beacon.qq.com,REJECT
